@@ -55,11 +55,8 @@
 </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<a href="https://sass-lang.com/install" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-</a>
+
 
  <!-- 🍁LINHA PARA SEPARAR🍁-->
  <div style="width: 100%;">
