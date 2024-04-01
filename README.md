@@ -81,33 +81,6 @@
 </div>
 
 
-<!-- 🫐PROJETOS EM DESENVOLVIMENTO🫐 -->
-<h3>
-💻 Projetos recentes
-</h3>
-<div style="display: 'flex';">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuxsx3&repo=Catalogo&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuxsx3&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
-</div>
-
- <!-- ☕LINHA PARA SEPARAR☕ -->
-<div style="width: 100%;">
-  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
-<!-- 🥇FREQUÊNCIA NO GITHUB 🥇 -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheuxsx3&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR">
-
-<!-- 🫶VISUALIZAÇÕES E VISITAS NO PERFIL🫶 -->
-[![](https://visitcount.itsvg.in/api?id=Kel2201&label=Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
-
- <!-- 🫠LINHA PARA SEPARAR🫠 -->
-<div style="width: 100%;">
-  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
-<!-- 🐍SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL 🐍 -->
-![snake gif](https://github.com/matheuxsx3/matheuxsx3/blob/output/github-contribution-grid-snake.svg)
 
  <!-- LINHA PARA SEPARAR -->
 <div style="width: 100%;">
