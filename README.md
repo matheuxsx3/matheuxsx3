@@ -1,29 +1,116 @@
-<div align="center">
+<!-- ########################## 😊 ########################## -->
+
+<!-- INÍCIO -->
+<div style="width: 100%;">
+  <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+
+<!--  CONTATOS EMAIL E LINKEDIN -->
+<h3>
+📬 Contatos
+</h3>
+<a href="mailto:raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+
+
+<!-- LINHA PARA SEPARAR -->
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<!-- DESEMPENHO E ESTATÍSTICAS DO PERFIL GITHUB-->
+ <div class="container" style="display:'flex';">
   
-## Oi! Eu sou Matheus!👋🏻💻
-<div align="center">
-  <a href="https://github.com/matheuxsx3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuxsx3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/matheuxsx3">
+<!--   https://github-readme-stats-matheuxsx3.vercel.app -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuxsx3&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
+  </a>
+  
+ <a href="https://github.com/matheuxsx3">     
+  <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=matheuxsx3&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8&card_width=500">
+     
+</a>   
+  </div>
+  
+   <!--  LINHA PARA SEPARAR-->
+  <div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-## Tecnologias que utilizo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/matheuxsx3/matheuxsx3/main/devicons/java-logo-svgrepo-com.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/matheuxsx3/matheuxsx3/main/devicons/spring-svgrepo-com.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://raw.githubusercontent.com/matheuxsx3/matheuxsx3/main/devicons/sql-database-generic-svgrepo-com.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!-- HABILIDADES EM FERRAMENTAS -->
+  <h3>
+🟣 Skills
+</h3>
+
+<a href="https://github.com/matheuxsx3" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://github.com/matheuxsx3" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>
+</a>
+<a href="https://github.com/matheuxsx3" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<a href="https://sass-lang.com/install" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
+</a>
+
+ <!-- 🍁LINHA PARA SEPARAR🍁-->
+ <div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-## Opções de contato:
 
- <div>
-  <a href = "mailto:matheus.s280604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-
+<!-- 🐢ESTATÍSTICAS DE STACKS🐢-->
+ <a href="https://github.com/matheuxsx3" >
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxsx3&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=7&layout=donut-vertical&hide=html,sass,css,scss,vue">
+ </a>
+   <a href="https://github.com/matheuxsx3" >
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxsx3&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=6&layout=donut-vertical&hide=java,typescript,javascript,dockerfile,c">
+ </a>
+ 
+  <!--🍎 LINHA PARA SEPARAR 🍎-->
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
+
+<!-- 🫐PROJETOS EM DESENVOLVIMENTO🫐 -->
+<h3>
+💻 Projetos recentes
+</h3>
+<div style="display: 'flex';">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuxsx3&repo=Catalogo&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuxsx3&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+</div>
+
+ <!-- ☕LINHA PARA SEPARAR☕ -->
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<!-- 🥇FREQUÊNCIA NO GITHUB 🥇 -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheuxsx3&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR">
+
+<!-- 🫶VISUALIZAÇÕES E VISITAS NO PERFIL🫶 -->
+[![](https://visitcount.itsvg.in/api?id=Kel2201&label=Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
+ <!-- 🫠LINHA PARA SEPARAR🫠 -->
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<!-- 🐍SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL 🐍 -->
+![snake gif](https://github.com/matheuxsx3/matheuxsx3/blob/output/github-contribution-grid-snake.svg)
+
+ <!-- LINHA PARA SEPARAR -->
+<div style="width: 100%;">
+  <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
