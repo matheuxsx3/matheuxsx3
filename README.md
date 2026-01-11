@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Matheus</h1>
-<p align="center">Desenvolvedor focado em construir soluções eficientes, limpas e com propósito.</p>
+<p align="center">Desenvolvedor Full Stack focado em construir soluções eficientes, escaláveis e bem estruturadas.</p>
 
 ---
 
@@ -20,10 +20,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Minhas Estatísticas GitHub
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheuxsx3&show_icons=true&bg_color=00000000&text_color=a29fd8&title_color=a29fd8&icon_color=a29fd8&border_color=a29fd8&border_radius=20" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=matheuxsx3&theme=transparent&date_format=j%20M%5B%20Y%5D&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8&border_radius=20" />
+  <a href="https://github.com/matheuxsx3">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=matheuxsx3&show_icons=true&theme=radical&border_radius=20" />
+  </a>
+  <a href="https://github.com/matheuxsx3">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheuxsx3&layout=donut-vertical&langs_count=6&theme=radical&border_radius=20" />
+  </a>
 </p>
 
 ---
@@ -43,10 +48,26 @@
 
 ---
 
-## 📚 Principais Linguagens  
+## 📌 Projetos em Destaque
+
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxsx3&layout=donut-vertical&text_color=a29fd8&title_color=a29fd8&bg_color=00000000&border_color=a29fd8&border_radius=20&langs_count=6&hide=html,css,scss,sass,vue" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxsx3&layout=donut-vertical&text_color=a29fd8&title_color=a29fd8&bg_color=00000000&border_color=a29fd8&border_radius=20&langs_count=6&hide=java,typescript,javascript,dockerfile,c" />
+
+  <a href="https://github.com/matheuxsx3/blogpessoal-BACKEND">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheuxsx3&repo=blogpessoal-BACKEND&theme=radical&border_radius=20" />
+  </a>
+
+  <a href="https://github.com/matheuxsx3/blogpessoal-FRONTEND">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheuxsx3&repo=blogpessoal-FRONTEND&theme=radical&border_radius=20" />
+  </a>
+
+  <a href="https://github.com/Grupo4-Generation/mercadela-back">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Grupo4-Generation&repo=mercadela-back&theme=radical&border_radius=20" />
+  </a>
+
+  <a href="https://github.com/Grupo4-Generation/mercadela-front">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Grupo4-Generation&repo=mercadela-front&theme=radical&border_radius=20" />
+  </a>
+
 </p>
 
 ---
