@@ -1,81 +1,92 @@
 <!-- Banner -->
 <p align="center">
-  <img src="hello-world.svg" width="100%" alt="Hello World Banner">
-</p>
-
-<h1 align="center">👋 Olá! Eu sou o Matheus</h1>
-<p align="center">Desenvolvedor Full Stack focado em construir soluções eficientes, escaláveis e bem estruturadas.</p>
-
----
-
-## 📬 Contatos  
-<p align="left">
-  <a href="mailto:matheus.s280604@gmail.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="40" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-ps-dev" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="40" alt="LinkedIn">
-  </a>
+  <img src="https://raw.githubusercontent.com/matheuxsx3/matheuxsx3/main/hello-world.svg" width="100%" />
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas GitHub
+# 👋 Olá! Eu sou o Matheus
+
+Sou **Desenvolvedor Back-end** focado em **Java**, **Spring** e **arquitetura de microsserviços**.  
+Atualmente evoluindo em **sistemas distribuídos**, **Kafka**, **boas práticas**, **DDD** e **Clean Architecture**.
+
+Meu objetivo é construir soluções escaláveis, bem projetadas e robustas — e crescer profissionalmente.
+
+---
+
+## 📬 Contato
+
+<p>
+  <a href="mailto:matheus.s280604@gmail.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-ps-dev">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+### **Back-end**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45"/>
+</p>
+
+### **Front-end**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40"/>
+</p>
+
+### **Ferramentas & DevOps**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
+</p>
+
+---
+
+# 📊 Estatísticas
 
 <p align="center">
-  <a href="https://github.com/matheuxsx3">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=matheuxsx3&show_icons=true&theme=radical&border_radius=20" />
-  </a>
-  <a href="https://github.com/matheuxsx3">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheuxsx3&layout=donut-vertical&langs_count=6&theme=radical&border_radius=20" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheuxsx3&show_icons=true&theme=radical&border_radius=20&hide_title=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=matheuxsx3&theme=radical&border_radius=20"/>
 </p>
 
 ---
 
-## 🟣 Skills  
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" alt="HTML">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" alt="CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" alt="TS">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" alt="React">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node">
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="40" alt="Java">
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" alt="Spring">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind">
-</p>
+# 🚀 Projetos que representam meu trabalho
+
+### 🔹 **order-service**  
+Sistema Java com Gradle baseado em microsserviços e mensageria com **Kafka**.
+
+### 🔹 **mercadela-back**  
+API Java para marketplace — arquitetura limpa, validações e camadas bem definidas.
+
+### 🔹 **mercadela-front**  
+Frontend moderno em TypeScript/React para o mesmo ecossistema do marketplace.
 
 ---
 
-## 📌 Projetos em Destaque
+# 🎯 Sobre mim
 
-<p align="center">
-
-  <a href="https://github.com/matheuxsx3/blogpessoal-BACKEND">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheuxsx3&repo=blogpessoal-BACKEND&theme=radical&border_radius=20" />
-  </a>
-
-  <a href="https://github.com/matheuxsx3/blogpessoal-FRONTEND">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheuxsx3&repo=blogpessoal-FRONTEND&theme=radical&border_radius=20" />
-  </a>
-
-  <a href="https://github.com/Grupo4-Generation/mercadela-back">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Grupo4-Generation&repo=mercadela-back&theme=radical&border_radius=20" />
-  </a>
-
-  <a href="https://github.com/Grupo4-Generation/mercadela-front">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Grupo4-Generation&repo=mercadela-front&theme=radical&border_radius=20" />
-  </a>
-
-</p>
+- Curto aprender tecnologias que resolvem problemas reais
+- Busco oportunidade como **Dev Back-end Java** para crescer e entregar valor  
 
 ---
 
 <p align="center">
-  <img src="line.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/matheuxsx3/matheuxsx3/main/line.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="hello-world.svg" width="100%" alt="Footer">
+  <b>Obrigado por visitar meu perfil! 🚀</b>
 </p>
